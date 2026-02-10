@@ -12,8 +12,8 @@ This capstone project helped me understand how system design decisions are influ
 
 - Live Demo: https://www.youtube.com/watch?v=PpI3tH1lzD8 (YouTube walkthrough, 3min)
 - GitHub Repo: 
-  - https://github.com/tie0913/nuitri_pilot_frontend
-  - https://github.com/tie0913/nuitri_pilot_backend
+  - https://github.com/tiewang0913/nutri_pilot_frontend.git
+  - https://github.com/tiewang0913/nutri_pilot_backend.git
 
 ## Tech Stack
 
