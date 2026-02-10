@@ -1,5 +1,7 @@
 # Nutri Pilot – AI-powered Nutrition Planning Platform
 
+## Overview
+
 Nutri Pilot is a capstone project developed under faculty supervision as part of my program, with iterative feedback from a project client.
 
 The goal of the project was to build a nutrition planning application that integrates user health profiles and AI-generated suggestions. Throughout the project, requirements evolved based on client feedback, which led to multiple design and implementation iterations.
