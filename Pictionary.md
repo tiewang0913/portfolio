@@ -24,7 +24,7 @@ Room interface displaying basic room information after users join.
 
 Admin-style interface for managing and maintaining the word list used by the game.
 
-![Words Management](./images/pictionary/Admin-Words Management.png)
+![Words Management](./images/pictionary/WordsManagement.png)
 
 
 
